@@ -2,4 +2,5 @@
 
 内容を追加
 GitHub上で編集
+masterで編集
 
